@@ -12,6 +12,7 @@ const (
   RUB Currency = "RUB"
   USD Currency = "USD"
   EUR Currency = "EUR"
+  LIR Currency ="LIR"
 )
 
 // PAN представляет номер карты
